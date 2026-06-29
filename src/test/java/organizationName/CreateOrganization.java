@@ -100,6 +100,8 @@ public class CreateOrganization {
 		
 		driver.close();
 		
+		System.out.println("done");
+		
 		
 	}
 	
